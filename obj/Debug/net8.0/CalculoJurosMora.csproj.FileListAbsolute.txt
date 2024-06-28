@@ -1,0 +1,14 @@
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\CalculoJurosMora.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\CalculoJurosMora.AssemblyInfoInputs.cache
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\CalculoJurosMora.AssemblyInfo.cs
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\CalculoJurosMora.csproj.CoreCompileInputs.cache
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\bin\Debug\net8.0\CalculoJurosMora.exe
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\bin\Debug\net8.0\CalculoJurosMora.deps.json
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\bin\Debug\net8.0\CalculoJurosMora.runtimeconfig.json
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\bin\Debug\net8.0\CalculoJurosMora.dll
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\bin\Debug\net8.0\CalculoJurosMora.pdb
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\CalculoJurosMora.dll
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\refint\CalculoJurosMora.dll
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\CalculoJurosMora.pdb
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\CalculoJurosMora.genruntimeconfig.cache
+E:\DOCUMENTOS\Cursos_programacao\ProjetoGit\EstudoC#\CalculoJurosMora\CalculoJurosMora\obj\Debug\net8.0\ref\CalculoJurosMora.dll
